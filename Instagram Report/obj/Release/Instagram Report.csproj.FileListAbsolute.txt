@@ -1,0 +1,20 @@
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\Instagram Report.exe.config
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\Instagram Report.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\Instagram Report.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\CsvHelper.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\Newtonsoft.Json.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\SendGrid.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\WebDriver.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\CsvHelper.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\Newtonsoft.Json.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\SendGrid.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\SendGrid.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Release\WebDriver.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram Report.csproj.GenerateResource.Cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram Report.csproj.CoreCompileInputs.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram Report.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram Report.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram Report.csprojAssemblyReference.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Release\Instagram Report.csproj.CopyComplete

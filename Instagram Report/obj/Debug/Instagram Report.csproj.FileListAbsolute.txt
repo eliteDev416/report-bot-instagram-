@@ -1,0 +1,39 @@
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csproj.GenerateResource.Cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csproj.CoreCompileInputs.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\CsvHelper.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Newtonsoft.Json.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\SendGrid.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\WebDriver.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\CsvHelper.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Newtonsoft.Json.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\SendGrid.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\SendGrid.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\WebDriver.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Instagram Report.exe.config
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Instagram Report.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Instagram Report.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csproj.CopyComplete
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Instagram Report.exe.config
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Instagram Report.exe
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Instagram Report.pdb
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\CsvHelper.dll
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Newtonsoft.Json.dll
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\SendGrid.dll
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\WebDriver.dll
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\CsvHelper.xml
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\Newtonsoft.Json.xml
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\SendGrid.pdb
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\SendGrid.xml
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\bin\Debug\WebDriver.xml
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csprojAssemblyReference.cache
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csproj.GenerateResource.cache
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csproj.CoreCompileInputs.cache
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.csproj.CopyComplete
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.exe
+E:\Work\VC\Bot\00 - Other\other\Instagram\Instagram Report\Instagram Report\obj\Debug\Instagram Report.pdb

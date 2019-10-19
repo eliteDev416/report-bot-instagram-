@@ -1,0 +1,31 @@
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\WebDriver.dll
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\WebDriver.xml
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email Scrape.csprojResolveAssemblyReference.cache
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email Scrape.csproj.GenerateResource.Cache
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\Instagram Email.exe.config
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\Instagram Email.exe
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\Instagram Email.pdb
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email.exe
+E:\Work\VC\Bot\09 - Other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\Instagram Email.exe.config
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\Instagram Email.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\Instagram Email.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\WebDriver.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\WebDriver.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email Scrape.csprojResolveAssemblyReference.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email Scrape.csproj.GenerateResource.Cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email Scrape.csproj.CoreCompileInputs.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\obj\Debug\Instagram Email.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\AutoItX3.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\AutoItX3_x64.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\AutoItX3.Assembly.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\CsvHelper.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\NHotkey.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\NHotkey.WindowsForms.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\AutoItX3.Assembly.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Email Scrape\Instagram Email Scrape\bin\Debug\CsvHelper.xml
